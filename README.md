@@ -1,7 +1,7 @@
 Clinical ML Pipeline: Decision Trees, LASSO & XGBoost
 
 **Short description:**  
-A compact, recruiter-friendly project demonstrating interpretable and regularized regression workflows: decision trees (with rule extraction & pruning), LASSO/Ridge, PCR (PCA + linear regression), and XGBoost — applied to a clinical (Acute Inflammations) dataset and the Communities & Crime dataset. Implements data cleaning, imputation, feature selection, model tuning (cross-validation/GridSearch), and visualization.
+A compact, project demonstrating interpretable and regularized regression workflows: decision trees (with rule extraction & pruning), LASSO/Ridge, PCR (PCA + linear regression), and XGBoost — applied to a clinical (Acute Inflammations) dataset and the Communities & Crime dataset. Implements data cleaning, imputation, feature selection, model tuning (cross-validation/GridSearch), and visualization.
 
 ---
 
